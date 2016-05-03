@@ -34,7 +34,7 @@
             // serviceProcessInstaller1
             // 
             this.serviceProcessInstaller1.Account = System.ServiceProcess.ServiceAccount.User;
-            this.serviceProcessInstaller1.Password = "lkat@*123";
+            this.serviceProcessInstaller1.Password = null;
             this.serviceProcessInstaller1.Username = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
             // 
             // serviceInstaller1
