@@ -1,0 +1,35 @@
+﻿Uninstalling assembly 'C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.InstallLog
+   assemblypath = C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe
+Removing EventLog source Test.WindowService.
+Warning: The source Test.WindowService is not registered on the local machine.
+Service Test.WindowService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.InstallLog
+   assemblypath = C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe
+   logtoconsole = 
+Installing service Test.WindowService...
+Service Test.WindowService has been successfully installed.
+Creating EventLog source Test.WindowService in log Application...
+Committing assembly 'C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.InstallLog
+   assemblypath = C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.InstallLog
+   assemblypath = C:\Users\nisar\OneDrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe
+Removing EventLog source Test.WindowService.
+Service Test.WindowService is being removed from the system...
+Service Test.WindowService was successfully removed from the system.
+Attempt to stop service Test.WindowService.

@@ -1,0 +1,8 @@
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\obj\Debug\Test.WindowService.csprojResolveAssemblyReference.cache
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\obj\Debug\Test.WindowService.ProjectInstaller.resources
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\obj\Debug\Test.WindowService.csproj.GenerateResource.Cache
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe.config
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.exe
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\bin\Debug\Test.WindowService.pdb
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\obj\Debug\Test.WindowService.exe
+c:\users\nisar\onedrive\documents\visual studio 2015\Projects\Test.WindowService\Test.WindowService\obj\Debug\Test.WindowService.pdb
